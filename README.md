@@ -6,7 +6,7 @@
 
 ## Содержание курса и общий прогресс
 
-- [Section 1. Linux](#section-1-linux) — 🔄 *В процессе (6/8)*
+- [Section 1. Linux](#section-1-linux) — 🔄 *Разделы закрыты. Ожидает выполнения теста*
 - [Section 2. Git](#section-2-git) — ⏳ *Ожидает*
 - [Section 3.1. Docker](#section-31-docker) — ⏳ *Ожидает*
 - [Section 3.3. Docker](#section-33-docker) — ⏳ *Ожидает*
@@ -27,8 +27,8 @@
 | **Task 1.4** | Network utilities. Системы и утилиты для работы с сетями в Linux | ✅ Completed | 11/12/2026 |
 | **Task 1.5** | Процессы, `systemd` и `cron` | ✅ Completed | 11/13/2026 |
 | **Task 1.6** | Файловые системы | ✅ Completed | 11/14/2026 |
-| **Task 1.7** | Nginx. Round Robin | ⏳ Pending | — |
-| **Task 1.8** | Nginx. Настройка домена, обработка запросов | ⏳ Pending | — |
+| **Task 1.7** | Nginx. Round Robin | ✅ Completed | 11/14/2026 |
+| **Task 1.8** | Nginx. Настройка домена, обработка запросов | ✅ Completed | 11/14/2026 |
 
 ---
 
