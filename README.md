@@ -6,10 +6,9 @@
 
 ## Содержание курса и общий прогресс
 
-- [Section 1. Linux](#section-1-linux) — 🔄 *Разделы закрыты. Ожидает выполнения теста*
-- [Section 2. Git](#section-2-git) — ⏳ *Ожидает*
-- [Section 3.1. Docker](#section-31-docker) — ⏳ *Ожидает*
-- [Section 3.3. Docker](#section-33-docker) — ⏳ *Ожидает*
+- [Section 1. Linux](#section-1-linux) — ✅ *Разделы закрыты.⏳Ожидает выполнения теста*
+- [Section 2. Git](#section-2-git) — 🔄 *В процессе изучения*
+- [Section 3. Docker](#section-3-docker) — ⏳ *Ожидает*
 - [Section 4. Ansible](#section-4-ansible) — ⏳ *Ожидает*
 - [Section 5. Kubernetes (K8s)](#section-5-kubernetes-k8s) — ⏳ *Ожидает*
 - [Section 6. Databases](#section-6-databases) — ⏳ *Ожидает*
@@ -50,19 +49,41 @@
 
 ---
 
-## Section 3.1. Docker
+## Section 3. Docker
 
 | Задание | Тема | Статус | Дата завершения |
 | :--- | :--- | :---: | :---: |
-| **Task 3.1.1** | *Будет добавлено по мере прохождения* | ⏳ Pending | — |
-
----
-
-## Section 3.3. Docker
-
-| Задание | Тема | Статус | Дата завершения |
-| :--- | :--- | :---: | :---: |
-| **Task 3.3.1** | *Будет добавлено по мере прохождения* | ⏳ Pending | — |
+| **Task 3.1** | Basics. Знакомство с Docker | ⏳ Pending | — |
+| **Task 3.2** | Basics. Флаги запуска | ⏳ Pending | — |
+| **Task 3.3** | Basics. Запуск команд внутри контейнера | ⏳ Pending | — 
+| **Task 3.4** | Basics. Хранилища | ⏳ Pending | — 
+| **Task 3.5** | Basics. Работа с контейнерами | ⏳ Pending | — 
+| **Task 3.6** | Basics. Логирование | ⏳ Pending | — 
+| **Task 3.7** | Images. Docker образы | ⏳ Pending | — 
+| **Task 3.8** | Images. Dockerfiles | ⏳ Pending | — 
+| **Task 3.9** | Images. Глубже в Dockerfiles | ⏳ Pending | — 
+| **Task 3.10** | Images. Параметризация Dockerfiles | ⏳ Pending | — |
+| **Task 3.11** | Images. Слои | ⏳ Pending | — |
+| **Task 3.12** | Images. Удаление образов | ⏳ Pending | — |
+| **Task 3.13** | Images. Кэширование | ⏳ Pending | — |
+| **Task 3.14** | Images. Multistage | ⏳ Pending | — |
+| **Task 3.15** | Images. Dockerfiles и Best-practices | ⏳ Pending | — |
+| **Task 3.16** | Images. Минимизация объема образа | ⏳ Pending | — |
+| **Task 3.17** | Images. Registry | ⏳ Pending | — |
+| **Task 3.18** | Images. Минимизация времени сборки образа | ⏳ Pending | — |
+| **Task 3.19** | Images. Dockerignore | ⏳ Pending | — |
+| **Task 3.20** | Images. Differences between basic archetypes | ⏳ Pending | — |
+| **Task 3.21** | Advanced. Restart Policy | ⏳ Pending | — |
+| **Task 3.22** | Advanced. Capabilities | ⏳ Pending | — |
+| **Task 3.23** | Advanced. Сети | ⏳ Pending | — |
+| **Task 3.24** | Advanced. Dind | ⏳ Pending | — |
+| **Task 3.25** | Compose. Знакомство с Docker compose | ⏳ Pending | — |
+| **Task 3.26** | Compose. Запуск зависимого сервиса | ⏳ Pending | — |
+| **Task 3.27** | Compose. Опции compose-файла | ⏳ Pending | — |
+| **Task 3.28** | Compose. Запуск compose со сборкой образа | ⏳ Pending | — |
+| **Task 3.29** | Compose. Хранение логов в EFK | ⏳ Pending | — |
+| **Task 3.30** | Server. Insecure registry | ⏳ Pending | — |
+| **Task 3.31** | Server. IPv6 | ⏳ Pending | — |
 
 ---
 
