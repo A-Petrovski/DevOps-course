@@ -36,14 +36,14 @@
 
 | Задание | Тема | Статус | Дата завершения |
 | :--- | :--- | :---: | :---: |
-| **Task 2.1** | Базовая работа с git-репозиториями | ⏳ Pending | — |
-| **Task 2.2** | Бранчевание | ⏳ Pending | — |
-| **Task 2.3** | Мерж и конфликты | ⏳ Pending | — |
-| **Task 2.4** | Rebase, Squash и Cherry-pick | ⏳ Pending | — |
-| **Task 2.5** | Работа с историей и удаленными репозиториями | ⏳ Pending | — |
-| **Task 2.6** | Submodules | ⏳ Pending | — |
-| **Task 2.7** | Configs | ⏳ Pending | — |
-| **Task 2.8** | Git flow | ⏳ Pending | — |
+| **Task 2.1** | Базовая работа с git-репозиториями | ✅ Completed | 11/16/2026 |
+| **Task 2.2** | Бранчевание | ✅ Completed | 11/16/2026 |
+| **Task 2.3** | Мерж и конфликты | ✅ Completed | 11/16/2026 |
+| **Task 2.4** | Rebase, Squash и Cherry-pick | ✅ Completed | 11/16/2026 |
+| **Task 2.5** | Работа с историей и удаленными репозиториями | ✅ Completed | 11/16/2026 |
+| **Task 2.6** | Submodules | ✅ Completed | 11/16/2026 |
+| **Task 2.7** | Configs | ✅ Completed | 11/16/2026 |
+| **Task 2.8** | Git flow | ✅ Completed | 11/16/2026 |
 | **Task 3.1** | Pабота с историей Git в PyCharm | ⏳ Pending | — |
 | **Task 3.2** | Pабота с Git в Visual Studio Code | ⏳ Pending | — |
 | **Task 3.3** | Изучение утилиты Meld | ⏳ Pending | — |
