@@ -5,14 +5,15 @@
 ---
 
 ## Содержание курса и общий прогресс
+| Задание | Тема | Статус теории | Статус теста |
+| :--- | :--- | :---: | :---: | 
+| **Section 1.** | [ Linux](#section-1-linux) | ✅ *Completed 11/14/2026* |⏳*Ожидает выполнения теста*|
+| **Section 2.** | [ Git](#section-2-git) | 🔄 *В процессе изучения* | ⏳*Ожидает выполнения теста*|
+| **Section 3.** | [ Docker](#section-3-docker) | ⏳ *Ожидает* | ⏳*Ожидает выполнения теста*|
+| **Section 4.** | [ Ansible](#section-4-ansible) | ⏳ *Ожидает* | ⏳*Ожидает выполнения теста*|
+| **Section 5.** | [ Kubernetes (K8s)](#section-5-kubernetes-k8s) | ⏳ *Ожидает* | — |
+| **Section 6.** | [ Databases](#section-6-databases) | ⏳ *Ожидает* |— |
 
-- [Section 1. Linux](#section-1-linux) — ✅ *Разделы закрыты.⏳Ожидает выполнения теста*
-- [Section 2. Git](#section-2-git) — 🔄 *В процессе изучения*
-- [Section 3. Docker](#section-3-docker) — ⏳ *Ожидает*
-- [Section 4. Ansible](#section-4-ansible) — ⏳ *Ожидает*
-- [Section 5. Kubernetes (K8s)](#section-5-kubernetes-k8s) — ⏳ *Ожидает*
-- [Section 6. Databases](#section-6-databases) — ⏳ *Ожидает*
-- [Контрольные тесты (Tests)](#контрольные-тесты-tests) — ⏳ *Ожидает*
 
 ---
 
@@ -21,7 +22,7 @@
 | Задание | Тема | Статус | Дата завершения |
 | :--- | :--- | :---: | :---: |
 | **Task 1.1** | VirtualBox, Linux, CLI. Работа с командной строкой, текстовые редакторы | ✅ Completed | 11/11/2026 |
-| **Task 1.2** | Конфигурация виртуальной машины | ✅ Completed | 11/12/2026 |
+| **Task 1.2** | Конфигурация виртуальной машины | ✅ Completed  | 11/12/2026 |
 | **Task 1.3** | Утилиты обработки текста/логов (`awk`, `sed`, `cut`, `grep`) | ✅ Completed | 11/12/2026 |
 | **Task 1.4** | Network utilities. Системы и утилиты для работы с сетями в Linux | ✅ Completed | 11/12/2026 |
 | **Task 1.5** | Процессы, `systemd` и `cron` | ✅ Completed | 11/13/2026 |
@@ -55,13 +56,13 @@
 | :--- | :--- | :---: | :---: |
 | **Task 3.1** | Basics. Знакомство с Docker | ⏳ Pending | — |
 | **Task 3.2** | Basics. Флаги запуска | ⏳ Pending | — |
-| **Task 3.3** | Basics. Запуск команд внутри контейнера | ⏳ Pending | — 
-| **Task 3.4** | Basics. Хранилища | ⏳ Pending | — 
-| **Task 3.5** | Basics. Работа с контейнерами | ⏳ Pending | — 
-| **Task 3.6** | Basics. Логирование | ⏳ Pending | — 
-| **Task 3.7** | Images. Docker образы | ⏳ Pending | — 
-| **Task 3.8** | Images. Dockerfiles | ⏳ Pending | — 
-| **Task 3.9** | Images. Глубже в Dockerfiles | ⏳ Pending | — 
+| **Task 3.3** | Basics. Запуск команд внутри контейнера | ⏳ Pending | — |
+| **Task 3.4** | Basics. Хранилища | ⏳ Pending | — |
+| **Task 3.5** | Basics. Работа с контейнерами | ⏳ Pending | — |
+| **Task 3.6** | Basics. Логирование | ⏳ Pending | — |
+| **Task 3.7** | Images. Docker образы | ⏳ Pending | — |
+| **Task 3.8** | Images. Dockerfiles | ⏳ Pending | — |
+| **Task 3.9** | Images. Глубже в Dockerfiles | ⏳ Pending | — |
 | **Task 3.10** | Images. Параметризация Dockerfiles | ⏳ Pending | — |
 | **Task 3.11** | Images. Слои | ⏳ Pending | — |
 | **Task 3.12** | Images. Удаление образов | ⏳ Pending | — |
