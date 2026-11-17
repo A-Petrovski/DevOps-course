@@ -8,7 +8,7 @@
 | Задание | Тема | Статус теории | Статус теста |
 | :--- | :--- | :---: | :---: | 
 | **Section 1.** | [ Linux](#section-1-linux) | ✅ *Completed 11/14/2026* |⏳*Ожидает выполнения теста*|
-| **Section 2.** | [ Git](#section-2-git) | 🔄 *В процессе изучения* | ⏳*Ожидает выполнения теста*|
+| **Section 2.** | [ Git](#section-2-git) | ☑️ Partially Completed 11/17/2026 | ⏳*Ожидает выполнения теста*|
 | **Section 3.** | [ Docker](#section-3-docker) | ⏳ *Ожидает* | ⏳*Ожидает выполнения теста*|
 | **Section 4.** | [ Ansible](#section-4-ansible) | ⏳ *Ожидает* | ⏳*Ожидает выполнения теста*|
 | **Section 5.** | [ Kubernetes (K8s)](#section-5-kubernetes-k8s) | ⏳ *Ожидает* | — |
@@ -44,9 +44,9 @@
 | **Task 2.6** | Submodules | ✅ Completed | 11/16/2026 |
 | **Task 2.7** | Configs | ✅ Completed | 11/16/2026 |
 | **Task 2.8** | Git flow | ✅ Completed | 11/16/2026 |
-| **Task 3.1** | Pабота с историей Git в PyCharm | ⏳ Pending | — |
-| **Task 3.2** | Pабота с Git в Visual Studio Code | ⏳ Pending | — |
-| **Task 3.3** | Изучение утилиты Meld | ⏳ Pending | — |
+| **Task 3.1** | Pабота с историей Git в PyCharm | ✅ Completed | 11/17/2026 |
+| **Task 3.2** | Pабота с Git в Visual Studio Code | 💤 Deferred | 11/17/2026 |
+| **Task 3.3** | Изучение утилиты Meld | 💤 Deferred | 11/17/2026 |
 
 ---
 
