@@ -59,7 +59,7 @@
 | **Task 3.3** | Basics. Запуск команд внутри контейнера | ✅ Completed  | 11/18/2026 |
 | **Task 3.4** | Basics. Хранилища | ✅ Completed  | 11/18/2026 |
 | **Task 3.5** | Basics. Работа с контейнерами | ✅ Completed  | 11/18/2026 |
-| **Task 3.6** | Basics. Логирование | ⏳ Pending | — |
+| **Task 3.6** | Basics. Логирование | ✅ Completed  | 11/18/2026 |
 | **Task 3.7** | Images. Docker образы | ⏳ Pending | — |
 | **Task 3.8** | Images. Dockerfiles | ⏳ Pending | — |
 | **Task 3.9** | Images. Глубже в Dockerfiles | ⏳ Pending | — |
