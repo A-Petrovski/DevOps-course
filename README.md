@@ -9,7 +9,7 @@
 | :--- | :--- | :---: | :---: | 
 | **Section 1.** | [ Linux](#section-1-linux) | ✅ *Completed 11/14/2026* |⏳*Ожидает выполнения теста*|
 | **Section 2.** | [ Git](#section-2-git) | ☑️ Partially Completed 11/17/2026 | ⏳*Ожидает выполнения теста*|
-| **Section 3.** | [ Docker](#section-3-docker) | ⏳ *Ожидает* | ⏳*Ожидает выполнения теста*|
+| **Section 3.** | [ Docker](#section-3-docker) | 🔄 *В процессе* | ⏳*Ожидает выполнения теста*|
 | **Section 4.** | [ Ansible](#section-4-ansible) | ⏳ *Ожидает* | ⏳*Ожидает выполнения теста*|
 | **Section 5.** | [ Kubernetes (K8s)](#section-5-kubernetes-k8s) | ⏳ *Ожидает* | — |
 | **Section 6.** | [ Databases](#section-6-databases) | ⏳ *Ожидает* |— |
@@ -54,7 +54,7 @@
 
 | Задание | Тема | Статус | Дата завершения |
 | :--- | :--- | :---: | :---: |
-| **Task 3.1** | Basics. Знакомство с Docker | ⏳ Pending | — |
+| **Task 3.1** | Basics. Знакомство с Docker | ✅ Completed  | 11/18/2026 |
 | **Task 3.2** | Basics. Флаги запуска | ⏳ Pending | — |
 | **Task 3.3** | Basics. Запуск команд внутри контейнера | ⏳ Pending | — |
 | **Task 3.4** | Basics. Хранилища | ⏳ Pending | — |
