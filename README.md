@@ -55,10 +55,10 @@
 | Задание | Тема | Статус | Дата завершения |
 | :--- | :--- | :---: | :---: |
 | **Task 3.1** | Basics. Знакомство с Docker | ✅ Completed  | 11/18/2026 |
-| **Task 3.2** | Basics. Флаги запуска | ⏳ Pending | — |
-| **Task 3.3** | Basics. Запуск команд внутри контейнера | ⏳ Pending | — |
-| **Task 3.4** | Basics. Хранилища | ⏳ Pending | — |
-| **Task 3.5** | Basics. Работа с контейнерами | ⏳ Pending | — |
+| **Task 3.2** | Basics. Флаги запуска | ✅ Completed  | 11/18/2026 |
+| **Task 3.3** | Basics. Запуск команд внутри контейнера | ✅ Completed  | 11/18/2026 |
+| **Task 3.4** | Basics. Хранилища | ✅ Completed  | 11/18/2026 |
+| **Task 3.5** | Basics. Работа с контейнерами | ✅ Completed  | 11/18/2026 |
 | **Task 3.6** | Basics. Логирование | ⏳ Pending | — |
 | **Task 3.7** | Images. Docker образы | ⏳ Pending | — |
 | **Task 3.8** | Images. Dockerfiles | ⏳ Pending | — |
