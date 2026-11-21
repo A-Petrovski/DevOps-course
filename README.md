@@ -60,10 +60,10 @@
 | **Task 3.4** | Basics. Хранилища | ✅ Completed  | 11/18/2026 |
 | **Task 3.5** | Basics. Работа с контейнерами | ✅ Completed  | 11/18/2026 |
 | **Task 3.6** | Basics. Логирование | ✅ Completed  | 11/18/2026 |
-| **Task 3.7** | Images. Docker образы | ⏳ Pending | — |
-| **Task 3.8** | Images. Dockerfiles | ⏳ Pending | — |
-| **Task 3.9** | Images. Глубже в Dockerfiles | ⏳ Pending | — |
-| **Task 3.10** | Images. Параметризация Dockerfiles | ⏳ Pending | — |
+| **Task 3.7** | Images. Docker образы | ✅ Completed  | 11/19/2026 |
+| **Task 3.8** | Images. Dockerfiles | ✅ Completed  | 11/19/2026 |
+| **Task 3.9** | Images. Глубже в Dockerfiles | ✅ Completed  | 11/19/2026 |
+| **Task 3.10** | Images. Параметризация Dockerfiles | ✅ Completed  | 11/21/2026 |
 | **Task 3.11** | Images. Слои | ⏳ Pending | — |
 | **Task 3.12** | Images. Удаление образов | ⏳ Pending | — |
 | **Task 3.13** | Images. Кэширование | ⏳ Pending | — |
