@@ -65,7 +65,7 @@
 | **Task 3.9** | Images. Глубже в Dockerfiles | ✅ Completed  | 11/19/2026 |
 | **Task 3.10** | Images. Параметризация Dockerfiles | ✅ Completed  | 11/21/2026 |
 | **Task 3.11** | Images. Слои |  ✅ Completed  | 11/23/2026 |
-| **Task 3.12** | Images. Удаление образов | ⏳ Pending | — |
+| **Task 3.12** | Images. Удаление образов | ✅ Completed  | 11/23/2026 |
 | **Task 3.13** | Images. Кэширование | ⏳ Pending | — |
 | **Task 3.14** | Images. Multistage | ⏳ Pending | — |
 | **Task 3.15** | Images. Dockerfiles и Best-practices | ⏳ Pending | — |
