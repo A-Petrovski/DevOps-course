@@ -68,7 +68,7 @@
 | **Task 3.12** | Images. Удаление образов | ✅ Completed  | 11/23/2026 |
 | **Task 3.13** | Images. Кэширование | ✅ Completed  | 11/23/2026 |
 | **Task 3.14** | Images. Multistage | ✅ Completed  | 11/23/2026 |
-| **Task 3.15** | Images. Dockerfiles и Best-practices | ⏳ Pending | — |
+| **Task 3.15** | Images. Dockerfiles и Best-practices | ✅ Completed  | 11/24/2026 |
 | **Task 3.16** | Images. Минимизация объема образа | ⏳ Pending | — |
 | **Task 3.17** | Images. Registry | ⏳ Pending | — |
 | **Task 3.18** | Images. Минимизация времени сборки образа | ⏳ Pending | — |
