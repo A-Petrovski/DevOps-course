@@ -71,7 +71,7 @@
 | **Task 3.15** | Images. Dockerfiles и Best-practices | ✅ Completed  | 11/24/2026 |
 | **Task 3.16** | Images. Минимизация объема образа | ✅ Completed  | 11/26/2026 |
 | **Task 3.17** | Images. Registry | ✅ Completed  | 11/26/2026 |
-| **Task 3.18** | Images. Минимизация времени сборки образа | ⏳ Pending | — |
+| **Task 3.18** | Images. Минимизация времени сборки образа | ✅ Completed  | 11/26/2026 |
 | **Task 3.19** | Images. Dockerignore | ⏳ Pending | — |
 | **Task 3.20** | Images. Differences between basic archetypes | ⏳ Pending | — |
 | **Task 3.21** | Advanced. Restart Policy | ⏳ Pending | — |
@@ -123,3 +123,28 @@
 | **Test 4** | Ansible | ⏳ Pending | — |
 
 ---
+
+
+## Список всех модулей (Modules)
+
+1. **Section 1.** Linux basic
+2. **Section 2.** Git
+3. **Section 3.** Docker
+4. **Section 4.** GitLab and CI/CD
+5. **Section 5.** Terraform, Terragrunt
+6. **Section 6.** Kubernetes
+7. **Section 7.** Monitoring and Alerting
+8. **Section 8.** Python
+9. **Section 9.** Final task
+10. **Section 10.** Clouds
+11. **Section 11.** Message Brokers: RabbitMQ and Kafka
+12. **Section 12.** SecOps and Kyverno
+13. **Section 13.** Backups and Disaster Recovery
+14. **Section 14.** Advanced CI/CD
+15. **Section 15.** Application Stacks: Java, Python, Node.js, Go
+16. **Section 16.** Networking
+17. **Section 17.** Certificates and TLS
+18. **Section 18.** Databases
+19. **Section 19.** Secret Management
+20. **Section 20.** FinOps
+21. **Section 21.** GitOps: Helm, Kustomize, Argo CD and Flux
