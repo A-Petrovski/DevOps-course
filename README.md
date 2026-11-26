@@ -73,7 +73,7 @@
 | **Task 3.17** | Images. Registry | ✅ Completed  | 11/26/2026 |
 | **Task 3.18** | Images. Минимизация времени сборки образа | ✅ Completed  | 11/26/2026 |
 | **Task 3.19** | Images. Dockerignore | ✅ Completed  | 11/26/2026 |
-| **Task 3.20** | Images. Differences between basic archetypes | ⏳ Pending | — |
+| **Task 3.20** | Images. Differences between basic archetypes | ✅ Completed  | 11/26/2026 |
 | **Task 3.21** | Advanced. Restart Policy | ⏳ Pending | — |
 | **Task 3.22** | Advanced. Capabilities | ⏳ Pending | — |
 | **Task 3.23** | Advanced. Сети | ⏳ Pending | — |
