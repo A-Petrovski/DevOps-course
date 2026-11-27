@@ -5,14 +5,14 @@
 ---
 
 ## Содержание курса и общий прогресс
-| Задание | Тема | Статус теории | Статус теста |
-| :--- | :--- | :---: | :---: | 
-| **Section 1.** | [ Linux](#section-1-linux) | ✅ *Completed 11/14/2026* |⏳*Ожидает выполнения теста*|
-| **Section 2.** | [ Git](#section-2-git) | ☑️ Partially Completed 11/17/2026 | ⏳*Ожидает выполнения теста*|
-| **Section 3.** | [ Docker](#section-3-docker) | 🔄 *В процессе* | ⏳*Ожидает выполнения теста*|
-| **Section 4.** | [ Ansible](#section-4-ansible) | ⏳ *Ожидает* | ⏳*Ожидает выполнения теста*|
-| **Section 5.** | [ Kubernetes (K8s)](#section-5-kubernetes-k8s) | ⏳ *Ожидает* | — |
-| **Section 6.** | [ Databases](#section-6-databases) | ⏳ *Ожидает* |— |
+| Задание | Тема | Статус теории | Дата | Статус теста | Дата |
+| :--- | :--- | :--- | :---: | :---: | :---: |
+| **Section 1.** | [ Linux](#section-1-linux) | ✅ *Completed* | 11/14/2026 |⏳*Ожидает выполнения теста*| — |
+| **Section 2.** | [ Git](#section-2-git) | ☑️ *Partially Completed* | 11/17/2026 | ⏳*Ожидает выполнения теста*| — |
+| **Section 3.** | [ Docker](#section-3-docker) | 🔄 *В процессе* | — | ⏳*Ожидает выполнения теста*| — |
+| **Section 4.** | [ Ansible](#section-4-ansible) | ⏳ *Ожидает* | — | ⏳*Ожидает выполнения теста*| — |
+| **Section 5.** | [ Kubernetes (K8s)](#section-5-kubernetes-k8s) | ⏳ *Ожидает* | — | — | — |
+| **Section 6.** | [ Databases](#section-6-databases) | ⏳ *Ожидает* | — | — | — |
 
 
 ---
@@ -76,7 +76,7 @@
 | **Task 3.20** | Images. Differences between basic archetypes | ✅ Completed  | 11/26/2026 |
 | **Task 3.21** | Advanced. Restart Policy | ✅ Completed  | 11/27/2026 |
 | **Task 3.22** | Advanced. Capabilities | ✅ Completed  | 11/27/2026 |
-| **Task 3.23** | Advanced. Сети | ⏳ Pending | — |
+| **Task 3.23** | Advanced. Сети | ✅ Completed  | 11/27/2026 |
 | **Task 3.24** | Advanced. Dind | ⏳ Pending | — |
 | **Task 3.25** | Compose. Знакомство с Docker compose | ⏳ Pending | — |
 | **Task 3.26** | Compose. Запуск зависимого сервиса | ⏳ Pending | — |
