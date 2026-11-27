@@ -77,7 +77,7 @@
 | **Task 3.21** | Advanced. Restart Policy | ✅ Completed  | 11/27/2026 |
 | **Task 3.22** | Advanced. Capabilities | ✅ Completed  | 11/27/2026 |
 | **Task 3.23** | Advanced. Сети | ✅ Completed  | 11/27/2026 |
-| **Task 3.24** | Advanced. Dind | ⏳ Pending | — |
+| **Task 3.24** | Advanced. Dind | ✅ Completed  | 11/27/2026 |
 | **Task 3.25** | Compose. Знакомство с Docker compose | ⏳ Pending | — |
 | **Task 3.26** | Compose. Запуск зависимого сервиса | ⏳ Pending | — |
 | **Task 3.27** | Compose. Опции compose-файла | ⏳ Pending | — |
