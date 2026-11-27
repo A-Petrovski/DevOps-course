@@ -75,7 +75,7 @@
 | **Task 3.19** | Images. Dockerignore | ✅ Completed  | 11/26/2026 |
 | **Task 3.20** | Images. Differences between basic archetypes | ✅ Completed  | 11/26/2026 |
 | **Task 3.21** | Advanced. Restart Policy | ✅ Completed  | 11/27/2026 |
-| **Task 3.22** | Advanced. Capabilities | ⏳ Pending | — |
+| **Task 3.22** | Advanced. Capabilities | ✅ Completed  | 11/27/2026 |
 | **Task 3.23** | Advanced. Сети | ⏳ Pending | — |
 | **Task 3.24** | Advanced. Dind | ⏳ Pending | — |
 | **Task 3.25** | Compose. Знакомство с Docker compose | ⏳ Pending | — |
